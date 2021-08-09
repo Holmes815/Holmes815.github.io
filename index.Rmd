@@ -17,5 +17,5 @@ output:
   postcards::onofre
 ---
  
-Estudiante de Maestría en Ciencias Bioquímicas. Bioinformática y 
+Alejandro Alarcón de Carmen. Estudiante de Maestría en Ciencias Bioquímicas. Bioinformática y 
 epigenética. Escalada deportiva y BJJ.
