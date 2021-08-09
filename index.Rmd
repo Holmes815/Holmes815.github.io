@@ -1,0 +1,21 @@
+---
+title: "HEY HEY HEY!"
+image: "lulz.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Instagram
+    url: "https://www.instagram.com/pieceofholmes/"
+  - label: Twitter
+    url: "https://twitter.com/Alejand66422555"
+  - label: Email
+    url: "Alejandro:alejandroalarcon@ciencias.unam.mx"
+  - label: Github
+    url: "https://github.com/Holmes815"
+output:
+  postcards::onofre
+---
+ 
+Estudiante de Maestría en Ciencias Bioquímicas. Bioinformática y 
+epigenética. Escalada deportiva y BJJ.
